@@ -1,3 +1,17 @@
-# valentines-web
+# valentine-web
 
-A little valnetine's day website.
+A little Valentine's Day website.
+
+## Getting Started
+
+```bash
+npm install
+npm run dev
+```
+
+## Building
+
+```bash
+npm run build
+npm run preview
+```
